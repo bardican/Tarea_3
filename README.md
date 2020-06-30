@@ -1,4 +1,6 @@
 # Tarea 3 IE0405
+Estudiante: Brandon Alonso Mendoza Medina, Carné B24127.
+Profesor: Fabián Abarca.
 
 ## Funciones de probabilidad marginales
 
